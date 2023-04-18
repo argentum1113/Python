@@ -2,7 +2,7 @@
 
 Hello, I am Avril Chang and here are the following codes I have made in the following six weeks while following the SC001 course. Despite the obstacles, I have managed to grapple onto the basic concepts of Python. 
 
-### Here are the links to my Karel codes:
+### Here are the links to my codes:
 
 - **Move To The End**
   - [Compressed Version](https://github.com/argentum1113/Python/files/11252354/MoveToTheEnd.py.zip)
