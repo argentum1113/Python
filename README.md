@@ -1,6 +1,6 @@
 # Python Karel Codes - Avril Chang: 
 
-Hello, I am Avril Chang and here are the following codes I have made in the following six weeks while following the SC001 course. Despite the obstacles, I have managed to grapple onto the basic concepts of Karel. 
+Hello, I am Avril Chang and here are the following codes I have made in the following six weeks while following the SC001 course. Despite the obstacles, I have managed to grapple onto the basic concepts of Python. 
 
 ### Here are the links to my Karel codes:
 
