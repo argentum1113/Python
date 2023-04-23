@@ -15,7 +15,6 @@ def main():
         else:
             jump()
 
-
 def jump():
     """
     pre-condition:Karel is on the left, facing East.
